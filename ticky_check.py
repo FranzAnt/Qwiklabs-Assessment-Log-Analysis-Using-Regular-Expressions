@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+<<<<<<< HEAD
 import re
 import csv
 
@@ -38,4 +39,6 @@ try:
             writer.writerow({'Username':value,'Info':key['info'],'Error':key['error']})
 except IOError:
     print("I/O error")
+=======
+>>>>>>> 6b184f0ce0caa8e6ccf0f7ab4561639da42e0da9
 

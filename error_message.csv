@@ -1,0 +1,7 @@
+Error,Count
+ticky: ERROR Connection to DB failed ,13
+ticky: ERROR Ticket ,7
+ticky: ERROR Permission denied while closing ticket ,10
+ticky: ERROR The ticket was modified while updating ,9
+ticky: ERROR Timeout while retrieving information ,15
+ticky: ERROR Tried to add information to closed ticket ,12
